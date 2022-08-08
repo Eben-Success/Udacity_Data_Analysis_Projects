@@ -41,9 +41,32 @@ In the unvariate process, I answer the following questions through visualization
 
 - Which age group rented the most bikes?
 - Which day has the most trips?
-- 
+- Which duration range occurs the most frequently?
+- Who are the major users of the bikes? (Customers or Subscribers)
+
+After careful investigation, I made the following deduction:
+- The hours of 17, and 08 have the most bike rentals, with over 2000 trips.
+
+- Most people rented bikes on the Thursday. The total amount of bikes rented on the Thursday was 35000. This is followed by Tuesday, which amount a total of over 31000 rentals. On Friday,  a total amout of approximately 29000 rentals were made. The least of the rentals were made on Sunday and Saturday.
+- Majority of the users between the ages of 30 and 40 years.
+- Most trips have duration less than 10 minutes
+- The duration of trips take huge amount of values and is denser at the left. So, I looked at it in log transform and found that peak occurs at 600 seconds starting from 0 and then distribution starts to drop and does not regain any more peak value.
 
 ### <a id="bivariate">Bivariate Exploratory Data Analysis</a>
+Similarly, in the bivariate process, I answer the following questions through visualizations of bar graph, histogram, boxplot and violinplot.
+
+- Which day of the week has the most average trips duration?
+- Which the trip duration of each age group?
+- What isthe age range of different user types?
+- What is the age range of different genders?
+
+After careful investigation, I made the following deduction:
+- Most people hire bikes on the weekends (Sunday and Saturday).
+- Most the customers are between the ages of 30 and 39. While the age range of  majority of subscribers is 30 and 41 years. 
+- The median ages of both male and females are identical. 
 
 
 ### <a id="multivariate">Multivariate Exploratory Data Analysis</a>
+
+Likewise, with the multivariate analysis, I found answers to the following questions through visualizations of bar graph, histogram, boxplot violinplot:
+
