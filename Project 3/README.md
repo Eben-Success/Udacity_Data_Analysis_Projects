@@ -6,8 +6,7 @@ This dataset provides information about individual rides made in a bike-sharing 
 
 The project is divided into four stages:
 - [Prelimary Investigations](#investigation)
-- [Data Wrangling](#wrangling)
-- [Feature Engineering](#engineering)
+- [Data Wrangling and Feature Engineering](#wrangling)
 - [Univariate Data Analysis](#univariate)
 - [Bivariate Data Analysis](#bivariate)
 - [Multivariate Data Analysis](#multivariate)
@@ -71,6 +70,19 @@ After careful investigation, I made the following deduction:
 Likewise, with the multivariate analysis, I found answers to the following questions through visualizations of bar graph, histogram, boxplot violinplot:
 - What is the relationship between Weekdays, Average Duration and User Gender?
 - Which gender have the most average trip duration among weekdays?
-- ere there features that strengthened each other?
+- Were there features that strengthened each other?
+
+After careful investigation of the relationship between the variables, I concluded the following:
+* The  "other" gender have the largest median accross board.
+* "Other" gender have the most average duration trip from Monday to Sunday. They have the highest duration on Sunday
+
+#### Summary
+* Bike rentals is prominent among subscribers rather than customers. This implies, subscribers gets discounts or special rates.
+
+* Both subscribers and customers often go a short trip. It seems to be common in the area. 
+
+* The "Other" gender, after the multivariate data analysis seems to be more active in bike rentals than males and females.
+
+
 
 
