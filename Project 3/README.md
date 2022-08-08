@@ -69,4 +69,8 @@ After careful investigation, I made the following deduction:
 ### <a id="multivariate">Multivariate Exploratory Data Analysis</a>
 
 Likewise, with the multivariate analysis, I found answers to the following questions through visualizations of bar graph, histogram, boxplot violinplot:
+- What is the relationship between Weekdays, Average Duration and User Gender?
+- Which gender have the most average trip duration among weekdays?
+- ere there features that strengthened each other?
+
 
