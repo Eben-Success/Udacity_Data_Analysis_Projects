@@ -8,3 +8,6 @@ The project is divided into four stages:
 * Prelimary Investigation
 * Data Wrangling
 * Feature Engineering
+* Univariate Exploratory Data Analysis
+* Bivariate Exploratory Data Analysis
+* Multivariate Exploratory Data Analysis
