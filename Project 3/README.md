@@ -71,10 +71,12 @@ Likewise, with the multivariate analysis, I found answers to the following quest
 - What is the relationship between Weekdays, Average Duration and User Gender?
 - Which gender have the most average trip duration among weekdays?
 - Were there features that strengthened each other?
+- Which user_type and member_gender took the most trip?
 
 After careful investigation of the relationship between the variables, I concluded the following:
 * The  "other" gender have the largest median accross board.
-* "Other" gender have the most average duration trip from Monday to Sunday. They have the highest duration on Sunday
+* "Other" gender have the most average duration trip from Monday to Sunday. They have the highest duration on Sunday.
+* From the chart, it confirms that the "other" user_type spend more duration_min on trips and they also occur majority of the users.
 
 #### Summary
 * Bike rentals is prominent among subscribers rather than customers. This implies, subscribers gets discounts or special rates.
