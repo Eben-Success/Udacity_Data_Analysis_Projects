@@ -18,7 +18,7 @@ In the prelimary process, I used the ```df.isnull().sum()``` to determine the nu
 
 Also, there were no duplicated values in the dataset.
 
-### <a id="wrangling">Data Wrangling</a>
+### <a id="wrangling">Data Wrangling and Feature Engineering.</a> 
 I replaced the missing values with the  mode of the dataset.
 I converted the following :
 ```start_time```  and ```end_time``` into datetime.
@@ -31,11 +31,17 @@ I converted the following :
 
 I also calculated the recent ages of the user by using the code: ```df['member_age'] = 2021 - df['member_birth_year']```
 
-Finally, I separated the   ```start_time``` into 
-### <a id="engineering">Feature Engineering</a>
+Finally, I separated the   ```start_time``` into ```start_hour```,```start_day```  and  ```start_month``` 
+
 
 
 ### <a id="univariate">Univariate Exploratory Data Analysis</a>
+
+In the unvariate process, I answer the following questions through visualizations of bar graph, histogram, boxplot and violinplot.
+
+- Which age group rented the most bikes?
+- Which day has the most trips?
+- 
 
 ### <a id="bivariate">Bivariate Exploratory Data Analysis</a>
 
