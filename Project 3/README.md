@@ -2,7 +2,9 @@
 
 ### Introduction
 
-This dataset provides information about individual rides made in a bike-sharing system in the San Francisco Bay Area. The dataset has 183412 rows and 16 columns
+This dataset provides information about individual rides made in a bike-sharing system in the San Francisco Bay Area. The dataset has 183412 rows and 16 columns.
+
+The code to this project can be found  in this [here](https://github.com/Eben-Success/Udacity_Data_Analysis_Projects/tree/master/Project%203)
 
 The project is divided into four stages:
 - [Prelimary Investigations](#investigation)
