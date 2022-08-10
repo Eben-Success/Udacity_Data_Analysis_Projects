@@ -38,7 +38,7 @@ Finally, I separated the   ```start_time``` into ```start_hour```,```start_day``
 
 ### <a id="univariate">Univariate Exploratory Data Analysis</a>
 
-In the unvariate process, I answer the following questions through visualizations of bar graph, histogram, boxplot and violinplot.
+In the univariate process, I answer the following questions through visualizations of bar graph, histogram, boxplot and violinplot.
 
 - Which age group rented the most bikes?
 - Which day has the most trips?
